@@ -1,0 +1,5 @@
+rootProject.name = 'udp'
+
+include 'client'
+include 'server'
+
